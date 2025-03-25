@@ -1,0 +1,26 @@
+# DevConnect 
+
+DevConnect is a React + Redux-powered task and team management platform for developers. It allows users to create, manage, and persist cards (features/tasks) with a responsive, modern UI built using Tailwind CSS.
+
+---
+
+##  Features
+
+- 🗃️ Add new task/feature cards with a title and description
+- 💾 Data persistence using localStorage
+- 🔁 Multi-page routing with React Router (`Home`, `About`, `Features`)
+- 🎯 Global state management using Redux Toolkit
+- 🎨 Styled using Tailwind CSS for responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [React Redux](https://react-redux.js.org/)
+- [React Router](https://reactrouter.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) – for faster build & dev experience
+
+---
